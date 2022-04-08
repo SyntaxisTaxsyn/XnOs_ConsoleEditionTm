@@ -41,6 +41,13 @@ namespace Game{
             players[1] = new player();
         }
 
+        private int protectRCLimits(int x){
+            // this is to ensure the entered number is within array dimension limits
+            if(x>2){x=2;}
+            if(x<0){x=0;}
+            return x;
+        }
+
         public void startGame(){
             // this is main game loop
             // execution gets into here by calling newGame() which will check player registrations
@@ -67,7 +74,9 @@ namespace Game{
                         if(_errmsg != ""){CWR(_errmsg);}
                         CWR("It is " + players[currentPlayer].name + "'s turn - you are " + players[currentPlayer].symbol + "'s");
                         r = RUI("Enter a row number");
+                        r = protectRCLimits(r);
                         c = RUI("Enter a col number");
+                        c = protectRCLimits(c);
                         if(checkEmpty(r,c)){
                             updateGrid(players[currentPlayer].symbol,r,c);
                             _continue = true;
