@@ -1,0 +1,15 @@
+/home/paul/Documents/CSharp/XnOs_ConsoleEditionTm/bin/Debug/net6.0/XnOs_ConsoleEditionTm
+/home/paul/Documents/CSharp/XnOs_ConsoleEditionTm/bin/Debug/net6.0/XnOs_ConsoleEditionTm.deps.json
+/home/paul/Documents/CSharp/XnOs_ConsoleEditionTm/bin/Debug/net6.0/XnOs_ConsoleEditionTm.runtimeconfig.json
+/home/paul/Documents/CSharp/XnOs_ConsoleEditionTm/bin/Debug/net6.0/XnOs_ConsoleEditionTm.dll
+/home/paul/Documents/CSharp/XnOs_ConsoleEditionTm/bin/Debug/net6.0/XnOs_ConsoleEditionTm.pdb
+/home/paul/Documents/CSharp/XnOs_ConsoleEditionTm/obj/Debug/net6.0/XnOs_ConsoleEditionTm.csproj.AssemblyReference.cache
+/home/paul/Documents/CSharp/XnOs_ConsoleEditionTm/obj/Debug/net6.0/XnOs_ConsoleEditionTm.GeneratedMSBuildEditorConfig.editorconfig
+/home/paul/Documents/CSharp/XnOs_ConsoleEditionTm/obj/Debug/net6.0/XnOs_ConsoleEditionTm.AssemblyInfoInputs.cache
+/home/paul/Documents/CSharp/XnOs_ConsoleEditionTm/obj/Debug/net6.0/XnOs_ConsoleEditionTm.AssemblyInfo.cs
+/home/paul/Documents/CSharp/XnOs_ConsoleEditionTm/obj/Debug/net6.0/XnOs_ConsoleEditionTm.csproj.CoreCompileInputs.cache
+/home/paul/Documents/CSharp/XnOs_ConsoleEditionTm/obj/Debug/net6.0/XnOs_ConsoleEditionTm.dll
+/home/paul/Documents/CSharp/XnOs_ConsoleEditionTm/obj/Debug/net6.0/refint/XnOs_ConsoleEditionTm.dll
+/home/paul/Documents/CSharp/XnOs_ConsoleEditionTm/obj/Debug/net6.0/XnOs_ConsoleEditionTm.pdb
+/home/paul/Documents/CSharp/XnOs_ConsoleEditionTm/obj/Debug/net6.0/XnOs_ConsoleEditionTm.genruntimeconfig.cache
+/home/paul/Documents/CSharp/XnOs_ConsoleEditionTm/obj/Debug/net6.0/ref/XnOs_ConsoleEditionTm.dll
